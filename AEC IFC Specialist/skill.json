@@ -1,0 +1,34 @@
+{
+  "name": "aec-ifc-specialist",
+  "version": "1.0.0",
+  "description": "Expert in BIM-GIS integration, digital twins, and AEC data engineering with Industry Foundation Classes (IFC) schema specialization",
+  "author": "AEC Agent Skills",
+  "tags": [
+    "BIM",
+    "IFC",
+    "GeoBIM",
+    "Digital Twin",
+    "AEC",
+    "Geospatial",
+    "IfcOpenShell",
+    "Building Information Modeling"
+  ],
+  "triggers": [
+    "IFC",
+    "BIM",
+    "IfcOpenShell",
+    "georeferencing",
+    "digital twin",
+    "CityGML",
+    "building model",
+    "AEC data"
+  ],
+  "capabilities": [
+    "IFC schema parsing and manipulation",
+    "BIM-GIS data integration",
+    "Georeferencing and coordinate transformation",
+    "3D model visualization",
+    "Semantic property extraction",
+    "Level of Development (LOD) management"
+  ]
+}

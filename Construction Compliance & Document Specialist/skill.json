@@ -1,0 +1,35 @@
+{
+  "name": "construction-compliance-specialist",
+  "version": "1.0.0",
+  "description": "Expert in AEC regulatory frameworks, building codes, site safety protocols, and contractual document analysis",
+  "author": "AEC Agent Skills",
+  "tags": [
+    "Building Codes",
+    "Compliance",
+    "IBC",
+    "Eurocodes",
+    "OSHA",
+    "Document Analysis",
+    "Construction Safety",
+    "Contract Analysis"
+  ],
+  "triggers": [
+    "building code",
+    "compliance",
+    "IBC",
+    "Eurocode",
+    "OSHA",
+    "contract analysis",
+    "regulatory framework",
+    "document extraction",
+    "compliance matrix"
+  ],
+  "capabilities": [
+    "Building code compliance analysis",
+    "PDF document parsing and extraction",
+    "Regulatory requirement extraction",
+    "Compliance matrix generation",
+    "Risk identification in contracts",
+    "Cross-reference validation"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "topologicpy",
+  "version": "1.0.0",
+  "description": "TopologicPy skill: graph-based spatial modelling and analysis for AEC; convert IFC/building data to graph structures and prepare data for Graph ML.",
+  "author": "AEC Agent Skills",
+  "tags": [
+    "topologicpy",
+    "topologic",
+    "graph",
+    "IFC",
+    "IFC-to-graph",
+    "graph data",
+    "building graph",
+    "visibility-graph",
+    "adjacency",
+    "graph-ml"
+  ],
+  "triggers": [
+    "topologicpy",
+    "topologic",
+    "analyze graph-based building data",
+    "graph-based building analysis",
+    "convert IFC to graph",
+    "IFC to graph",
+    "convert building data to graph",
+    "change data format to graph",
+    "graph data format conversion",
+    "graph analysis",
+    "visibility graph",
+    "navigation graph",
+    "adjacency matrix",
+    "adjacency list",
+    "graph machine learning",
+    "GML"
+  ],
+  "capabilities": [
+    "Convert IFC/topologies to graph structures using Graph.ByTopology and Graph.ByVerticesEdges",
+    "Transform building data formats into graph structures with node/edge attributes",
+    "Extract adjacency lists/matrices and compute shortest paths, MST, and centrality measures",
+    "Generate visibility and navigation graphs",
+    "Prepare graph data for Graph ML frameworks (DGL, PyG)",
+    "Export/serialize graph formats (CSV, JSON, Speckle, py2neo)"
+  ]
+}

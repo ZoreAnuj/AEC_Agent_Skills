@@ -1,0 +1,34 @@
+{
+  "name": "typst-research-specialist",
+  "version": "1.0.0",
+  "description": "Expert in converting markdown research papers to Typst format with proper academic formatting and structure",
+  "author": "AEC Agent Skills",
+  "tags": [
+    "Typst",
+    "Research Paper",
+    "Academic Writing",
+    "Markdown",
+    "LaTeX Alternative",
+    "Document Formatting",
+    "Scientific Publishing"
+  ],
+  "triggers": [
+    "typst",
+    "research paper",
+    "academic paper",
+    "markdown to typst",
+    "scientific document",
+    "thesis",
+    "dissertation",
+    "paper formatting"
+  ],
+  "capabilities": [
+    "Convert markdown to Typst format",
+    "Apply proper academic formatting",
+    "Structure research papers with sections",
+    "Format equations and mathematical notation",
+    "Handle citations and bibliographies",
+    "Create figures and tables",
+    "Manage cross-references"
+  ]
+}

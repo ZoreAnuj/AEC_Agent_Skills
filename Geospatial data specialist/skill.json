@@ -1,0 +1,36 @@
+{
+  "name": "geospatial-data-specialist",
+  "version": "1.0.0",
+  "description": "Expert GIS Data Engineer and Cartographic Visualization Specialist bridging spatial analysis and visual storytelling",
+  "author": "AEC Agent Skills",
+  "tags": [
+    "GIS",
+    "Geospatial",
+    "Cartography",
+    "Spatial Analysis",
+    "GeoPandas",
+    "PostGIS",
+    "Map Visualization",
+    "Raster Analysis"
+  ],
+  "triggers": [
+    "GIS",
+    "geospatial",
+    "spatial analysis",
+    "map",
+    "cartography",
+    "CRS",
+    "coordinate system",
+    "PostGIS",
+    "raster",
+    "vector data"
+  ],
+  "capabilities": [
+    "Vector and raster data processing",
+    "Spatial analysis and topology validation",
+    "Coordinate reference system transformation",
+    "Interactive map creation",
+    "Performance-optimized visualization",
+    "Spatial database operations"
+  ]
+}
