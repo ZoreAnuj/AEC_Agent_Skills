@@ -3,14 +3,15 @@
 Specialized AI agent skills for Architecture, Engineering, and Construction (AEC) professionals. This project explores the development of a modular AI workforce for the construction engineering domain, enabling agents to perform domain-specific reasoning and tasks.
 
 ## Key Features
-*   Modular skill sets for construction planning, design analysis, and compliance checking.
-*   Integration with common AEC data formats and simulation tools.
-*   Agentic workflows for automated documentation and reporting.
+*   Modular skill sets for AEC-specific problem-solving.
+*   Integration with construction data formats and industry standards.
+*   Agentic workflows for design analysis and project coordination.
 
 ## Tech Stack
-Python, LangChain, FastAPI, Docker, PostgreSQL
+Python, LangChain, OpenAI API, FastAPI, Docker
 
 ## Getting Started
-1.  Clone the repo: `git clone https://github.com/zoreanuj/AEC_Agent_Skills.git`
+1.  Clone the repository: `git clone https://github.com/zoreanuj/AEC_Agent_Skills.git`
 2.  Install dependencies: `pip install -r requirements.txt`
-3.  Configure environment variables and run: `python main.py`
+3.  Set your API keys in a `.env` file.
+4.  Run the example: `python main.py`
