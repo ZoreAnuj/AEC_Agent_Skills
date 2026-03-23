@@ -1,19 +1,16 @@
 # AEC Agent Skills
 
-Specialized AI agent skills for Architecture, Engineering, and Construction (AEC) professionals. This project explores the development of a modular AI workforce tailored for construction engineering, enabling domain-specific task automation and decision support.
+Specialized AI agent skills for Architecture, Engineering, and Construction (AEC) professionals. This project explores how AI can augment workflows in the built environment, providing tools to assist with common industry tasks and decision-making.
 
 ## Key Features
-*   Modular skill sets for common AEC workflows (e.g., document parsing, code compliance checks).
-*   Integration with common AEC software and data formats.
-*   Configurable agent logic for task sequencing and validation.
+*   **Document Analysis:** Parse and extract key information from construction documents, plans, and specifications.
+*   **Code Compliance Checking:** Assist in reviewing designs against common building codes and standards.
+*   **Material & Cost Estimation:** Generate preliminary quantity takeoffs and cost estimates from provided data.
 
 ## Tech Stack
-*   Python
-*   LangChain / LlamaIndex
-*   FastAPI
-*   Docker
+Python, LangChain, OpenAI API, FAISS (for vector search), PyPDF2
 
 ## Getting Started
-1.  Clone the repository: `git clone https://github.com/zoreanuj/AEC_Agent_Skills.git`
+1.  Clone the repo: `git clone https://github.com/zoreanuj/AEC_Agent_Skills.git`
 2.  Install dependencies: `pip install -r requirements.txt`
-3.  Configure environment variables and run: `python main.py`
+3.  Set your OpenAI API key: `export OPENAI_API_KEY='your-key'`
